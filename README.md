@@ -61,5 +61,3 @@ docker run -d -p 5000:5000 quote-api
 ## 🙌 Author
 
 Made with ☕ by Dalvi Pushkar
-
-````
