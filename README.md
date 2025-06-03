@@ -26,7 +26,7 @@ This API serves a random motivational quote every time you hit the `/quote` endp
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/flask-docker-quote-api.git
+git clone https://github.com/dalvi-pushkar/flask-docker-quote-api.git
 cd flask-docker-quote-api
 ````
 
